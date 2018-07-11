@@ -1,0 +1,7 @@
+#Intellij IDEA config files excluded
+/.idea
+/out
+*.iml
+
+#Maven target folder excluded too
+/target
