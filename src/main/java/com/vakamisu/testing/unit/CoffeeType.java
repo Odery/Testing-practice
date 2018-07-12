@@ -1,4 +1,4 @@
-package com.vakamisu.testing;
+package com.vakamisu.testing.unit;
 
 public enum CoffeeType {
     Espresso(7,0),
