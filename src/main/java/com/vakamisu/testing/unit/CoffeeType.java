@@ -1,8 +1,8 @@
 package com.vakamisu.testing.unit;
 
 public enum CoffeeType {
-    Espresso(7,0),
-    Latte(7,227),
+    Espresso(8, 0),
+    Latte(8, 220),
     FilterCoffee(10,0);
 
     private final int requiredBeans;
